@@ -13,8 +13,8 @@ public class Main {
     static long totalMs;
 
     public static void main(String[] args) throws FileNotFoundException, InterruptedException {
-        File directory = new File("./Phone Book/task/src/resources/small_directory.txt");
-        File find = new File("./Phone Book/task/src/resources/small_find.txt");
+        File directory = new File("./Phone Book/task/src/resources/directory.txt");
+        File find = new File("./Phone Book/task/src/resources/find.txt");
         List<String> phonebook = readPhonebook(directory);
 
         useLinearSearch(phonebook, find);

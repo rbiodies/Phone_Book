@@ -43,21 +43,21 @@ Searching time: 0 min. 0 sec. 1 ms.
 ```
 >If the sorting process takes too long (more than 10 times longer than all 500 iterations of the linear search), you should stop sorting and use the linear search
 ### Results sortings:
-|Sort algorithm|Worst-case performance|Best-case performance|Average performance|Sorting time the simplified data|Sorting time the phone numbers of over a million people|
-|:------------:|:--------------------:|:-------------------:|:-----------------:|:------------------------------:|:-----------------------------------------------------:|
-|Bubble Sort   |O(n^2)                |O(n)                 |O(n^2)             |0 min. 0 sec. 61 ms.            |> 0 min. 22 sec. 140 ms.                               |
-|Quicksort     |O(n^2)                |O(n log n)           |O(n log n)         |0 min. 0 sec. 2 ms.             |0 min. 0 sec. 820 ms.                                  |
+|Sort algorithm|Worst-case performance|Best-case performance|Average performance|Sorting time the phone numbers of over a million people|
+|:------------:|:--------------------:|:-------------------:|:-----------------:|:-----------------------------------------------------:|
+|Bubble Sort   |O(n^2)                |O(n)                 |O(n^2)             |> 0 min. 22 sec. 140 ms.                               |
+|Quicksort     |O(n^2)                |O(n log n)           |O(n log n)         |0 min. 0 sec. 820 ms.                                  |
 > [Алгоритмы и структуры данных для начинающих: сложность алгоритмов](https://tproger.ru/translations/algorithms-and-data-structures/)
 
 :1st_place_medal: Quicksort
 :2nd_place_medal: Bubble Sort
 ### Results searchings:
-|Search algorithm|Worst-case performance|Best-case performance|Average performance|Searching time the simplified data|Searching time the phone numbers of over a million people|
-|:--------------:|:--------------------:|:-------------------:|:-----------------:|:--------------------------------:|:-------------------------------------------------------:|
-|Linear search   |O(n)                  |O(1)                 |O(n/2)             |0 min. 0 sec. 6 ms.               |0 min. 2 sec. 358 ms.                                    |
-|Jump search     |O(√n)                 |O(1)                 |O(√n)              |0 min. 0 sec. 2 ms.               |0 min. 2 sec. 173 ms.                                    |
-|Binary search   |O(log n)              |O(1)                 |O(log n)           |0 min. 0 sec. 1 ms.               |0 min. 0 sec. 3 ms.                                      |
-|Hash table      |O(n)                  |O(1)                 |O(1)               |0 min. 0 sec. 0 ms.               |0 min. 0 sec. 1 ms.                                      |
+|Search algorithm|Worst-case performance|Best-case performance|Average performance|Searching time the phone numbers of over a million people|
+|:--------------:|:--------------------:|:-------------------:|:-----------------:|:-------------------------------------------------------:|
+|Linear search   |O(n)                  |O(1)                 |O(n/2)             |0 min. 2 sec. 358 ms.                                    |
+|Jump search     |O(√n)                 |O(1)                 |O(√n)              |0 min. 2 sec. 173 ms.                                    |
+|Binary search   |O(log n)              |O(1)                 |O(log n)           |0 min. 0 sec. 3 ms.                                      |
+|Hash table      |O(n)                  |O(1)                 |O(1)               |0 min. 0 sec. 1 ms.                                      |
 
 :1st_place_medal: Hash table
 :2nd_place_medal: Binary search

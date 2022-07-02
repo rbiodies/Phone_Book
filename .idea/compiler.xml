@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Phone_Book.Phone_Book-task-build-classes-java.main" target="11" />
+      <module name="Phone_Book.Phone_Book-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Phone_Book.Phone_Book-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Phone_Book.Phone_Book-task-build-reports-tests.main" target="11" />
+      <module name="Phone_Book.Phone_Book-task-build-test-results.main" target="11" />
+      <module name="Phone_Book.Phone_Book-task-build-tmp.main" target="11" />
+      <module name="Phone_Book.Phone_Book-task.main" target="11" />
+      <module name="Phone_Book.Topics-Recursion-About_recursion.main" target="11" />
+      <module name="Phone_Book.Topics-Recursion-Find_a_substring.main" target="11" />
+      <module name="Phone_Book.Topics-Recursion-Fix_a_method_to_check_the_string_is_palindrome.main" target="11" />
+      <module name="Phone_Book.Topics-Recursion-Fix_the_method_to_print_strings_in_the_reverse_order.main" target="11" />
+      <module name="Phone_Book.Topics-Recursion-K-combination.main" target="11" />
+      <module name="Phone_Book.Topics-Recursion-Number_of_decompositions.main" target="11" />
+      <module name="Phone_Book.Topics-Recursion-Operations_with_number_n.main" target="11" />
+      <module name="Phone_Book.Topics-Recursion-Select_statement.main" target="11" />
+      <module name="Phone_Book.Topics-Recursion-Theory.main" target="11" />
+      <module name="Phone_Book.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

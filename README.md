@@ -57,8 +57,8 @@ Searching time: 0 min. 0 sec. 1 ms.
 ### Results approaches:
 |Approache                |Time taken with the simplified data|Time taken with the phone numbers of over a million people|
 |:-----------------------:|:---------------------------------:|:--------------------------------------------------------:|
-|Linear search            |0 min. 0 sec. 6 ms.                |0 min. 2 sec. 358 ms.                                     |
+|:3rd_place_medal: Linear search            |0 min. 0 sec. 6 ms.                |0 min. 2 sec. 358 ms.                                     |
 |Bubble sort + Jump search|0 min. 0 sec. 63 ms.               |0 min. 26 sec. 4 ms.                                      |
-|Quicksort + Binary search|0 min. 0 sec. 3 ms.                |0 min. 0 sec. 823 ms.                                     |
-|Hash table               |0 min. 0 sec. 2 ms.                |0 min. 0 sec. 251 ms.                                     |
+|:2nd_place_medal: Quicksort + Binary search|0 min. 0 sec. 3 ms.                |0 min. 0 sec. 823 ms.                                     |
+|:1st_place_medal: Hash table               |0 min. 0 sec. 2 ms.                |0 min. 0 sec. 251 ms.                                     |
 >In the hash table approach, the time taken includes the hash table creation time

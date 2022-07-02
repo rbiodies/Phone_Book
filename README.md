@@ -1,6 +1,6 @@
 # Phone_Book
 ### The objective of this project:
-Implement several algorithms, and comparing their efficiency when using a dataset
+Implement several algorithms, and comparing their efficiency when using small and big datasets
 ### Example 1:
 ```
 Start searching (linear search)...
